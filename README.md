@@ -1,6 +1,6 @@
 # unstructured_business_model
 
-## [Section 1] Mores on Images
+## [[Section 1]](https://github.com/yeonwoo780/unstructured_business/tree/main/Section_1) Mores on Images
 
 [chapter_1]
 
@@ -16,7 +16,7 @@ Object Detection과 Segmentation을 위한 주요 Dataset
 
 <br>
 
-## [Section 2] 스마트 팩토리 입문
+## [[Section 2]](https://github.com/yeonwoo780/unstructured_business/tree/main/Section_2)스마트 팩토리 입문
 
 [chapter_4]
 
@@ -28,7 +28,7 @@ Object Detection과 Segmentation을 위한 주요 Dataset
 
 <br>
 
-## [Section 3] using Texts or languages
+## [[Section 3]](https://github.com/yeonwoo780/unstructured_business/tree/main/Section_3) using Texts or languages
 
 [chapter_6]
 
