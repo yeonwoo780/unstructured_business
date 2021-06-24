@@ -70,3 +70,7 @@ Fuzzy Logic 과 Pattern Recognition 을 이용하여 설비의 열화 상 태를
 
 프로그램 전달하기_after
 
+<br>
+
+colab steel폴더 확인
+
