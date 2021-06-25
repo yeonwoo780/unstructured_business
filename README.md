@@ -14,7 +14,7 @@ Object Detection과 Segmentation을 위한 주요 Dataset
 
 신경망 성능 향상 방법 (이미지 증강, 전이 학습)
 
-<br>
+
 
 ## [[Section 2]](https://github.com/yeonwoo780/unstructured_business/tree/main/Section_2)스마트 팩토리 입문
 
@@ -26,7 +26,7 @@ Object Detection과 Segmentation을 위한 주요 Dataset
 
 예지 보전 지능화
 
-<br>
+
 
 ## [[Section 3]](https://github.com/yeonwoo780/unstructured_business/tree/main/Section_3) using Texts or languages
 
